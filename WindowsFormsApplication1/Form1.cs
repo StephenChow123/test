@@ -15,5 +15,9 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+        public void test()
+        {
+            int aa = 0;
+        }
     }
 }
