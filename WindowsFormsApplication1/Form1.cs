@@ -15,7 +15,11 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
-        public void add()
+        public void test()
+        {
+            int aa = 0;
+        }
+        public void sub()
         {
 
         }
