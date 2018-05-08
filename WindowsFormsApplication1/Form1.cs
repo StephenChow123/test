@@ -19,5 +19,9 @@ namespace WindowsFormsApplication1
         {
             int aa = 0;
         }
+        public void sub()
+        {
+
+        }
     }
 }
